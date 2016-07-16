@@ -1,5 +1,6 @@
 excerpt_separator: ""
-pygments: true
+rouge: true
+#pygments: true
 markdown: kramdown
 url: http://Kambrian.github.io
 title: 归程
