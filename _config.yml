@@ -4,6 +4,6 @@ rouge: true
 markdown: kramdown
 url: http://Kambrian.github.io
 title: 归程
-tagline: 天涯的马最烈，疯狂的追赶一线长天；浪子的脚步最乱，回乡的旅程弯了又弯
-description: Jiaxin's blog
+tagline: Jiaxin's blog
+description: 天涯的马最烈，疯狂的追赶一线长天；浪子的脚步最乱，回乡的旅程弯了又弯
 paginate: 5
