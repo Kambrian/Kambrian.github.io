@@ -3,4 +3,4 @@ published: true
 title: test page
 layout: post
 ---
-hello world
+hello world 你好世界！
